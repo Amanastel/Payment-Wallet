@@ -77,6 +77,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or suggestions, feel free to contact us at amankumar.ak0012@gmail.com.
 
-## Acknowledgements
-
-Special thanks to the open-source community for their contributions.
