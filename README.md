@@ -6,13 +6,15 @@ Welcome to the Payment System Backend project! This project provides backend fun
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
+- - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -69,3 +71,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any questions or suggestions, feel free to contact us at amankumar.ak0012@gmail.com.
+
+## Acknowledgements
+
+Special thanks to the open-source community for their contributions.
