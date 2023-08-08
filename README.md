@@ -58,6 +58,7 @@ This backend application is designed to handle user registration, wallet managem
 - `DELETE /users/{email}`: Delete a user by email.
 - `GET /admin/role/{role}`: Get details of all users with a specific role.
 - `GET /signIn`: Get details of the logged-in user.
+- Swagger UI Documentation: [http://localhost:8888/swagger-ui/index.html#/](http://localhost:8888/swagger-ui/index.html#/)
 
 ## Contributing
 
