@@ -33,7 +33,7 @@ This backend application is designed to handle user registration, wallet managem
 
 - Java 8 or higher
 - Spring Boot
-- MySQL or H2 database
+- MySQL 
 - Maven (for building)
 
 ### Installation
